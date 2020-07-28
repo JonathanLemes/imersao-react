@@ -1,0 +1,169 @@
+{
+  "categorias": [
+    {
+      "titulo": "Músicas",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "LUCKHAOS - É a União Flasco (feat. Lucas Hype) [Clipe Oficial]",
+          "url": "https://www.youtube.com/watch?v=1tpIxo4vy80"
+        },
+        {
+          "titulo": "Madz - Toma Tapão [funk lofi / chillfunk]",
+          "url": "https://www.youtube.com/watch?v=nSVBhrdRUJ8"
+        },
+        {
+          "titulo": "Shake It Bololo ft. Classics of MPB",
+          "url": "https://www.youtube.com/watch?v=oowBXzfcl90"
+        },
+        {
+          "titulo": "MC POZE NOS ANOS 80",
+          "url": "https://www.youtube.com/watch?v=WZIGwN-5Ioo"
+        },
+        {
+          "titulo": "Mc Gorila - Cheio de Sal (Gdj Studio)",
+          "url": "https://www.youtube.com/watch?v=N4Q4j1oSdUU"
+        },
+        {
+          "titulo": "MEMETROSPECTIVA 2016 [OFICIAL]",
+          "url": "https://www.youtube.com/watch?v=vfqRU5jfduY"
+        }       
+      ]
+    },
+    {
+      "titulo": "Momentos magníficos da televisão brasileira",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Dodô, do Pixote se emociona e solta catarro ao vivo",
+          "url": "https://www.youtube.com/watch?v=HeI92saxarw"
+        },
+        {
+          "titulo": "João Gordo x Dado Dolabella ao vivo mtv",
+          "url": "https://www.youtube.com/watch?v=9CRSqhN401o"
+        },
+        {
+          "titulo": "Entrevista com Terraplanistas | The Noite (29/10/19)",
+          "url": "https://www.youtube.com/watch?v=cHHxxcH_T6o"
+        },
+        {
+          "titulo": "PÂNICO TROLLAGENS: SÓSIAS DE VIN DIESEL ENTREVISTAM UM AO OUTRO",
+          "url": "https://www.youtube.com/watch?v=chxLjv8KXa8&t=8s"
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": ""
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }, 
+        {
+          "titulo": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
